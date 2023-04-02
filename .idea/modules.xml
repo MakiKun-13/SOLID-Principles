@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SOLID-Principles.iml" filepath="$PROJECT_DIR$/SOLID-Principles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dependency_inversion_principle/dependency_inversion_principle.iml" filepath="$PROJECT_DIR$/dependency_inversion_principle/dependency_inversion_principle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface_segregation_principle/interface_segregation_principle.iml" filepath="$PROJECT_DIR$/interface_segregation_principle/interface_segregation_principle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liskov_substitution_principle/liskov_substitution_principle.iml" filepath="$PROJECT_DIR$/liskov_substitution_principle/liskov_substitution_principle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/open_closed_principle/open_closed_principle.iml" filepath="$PROJECT_DIR$/open_closed_principle/open_closed_principle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/single_responsibility_principle/single_responsibility_principle.iml" filepath="$PROJECT_DIR$/single_responsibility_principle/single_responsibility_principle.iml" />
+    </modules>
+  </component>
+</project>
